@@ -62,7 +62,7 @@ typing-extensions==4.7.1 \
     #   cattrs
     #   importlib-metadata
     #   ruff-lsp (pyproject.toml)
-zipp==3.15.0 \
-    --hash=sha256:112929ad649da941c23de50f356a2b5570c954b65150642bccdd66bf194d224b \
-    --hash=sha256:48904fc76a60e542af151aded95726c1a5c34ed43ab4134b597665c86d7ad556
+zipp==3.20.1 \
+    --hash=sha256:9960cd8967c8f85a56f920d5d507274e74f9ff813a0ab8889a5b5be2daf44064 \
+    --hash=sha256:c22b14cc4763c5a5b04134207736c107db42e9d3ef2d9779d465f5f1bcba572b
     # via importlib-metadata
