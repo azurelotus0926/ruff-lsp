@@ -10,9 +10,9 @@ attrs==23.2.0 \
     # via
     #   cattrs
     #   lsprotocol
-cattrs==23.1.2 \
-    --hash=sha256:b2bb14311ac17bed0d58785e5a60f022e5431aca3932e3fc5cc8ed8639de50a4 \
-    --hash=sha256:db1c821b8c537382b2c7c66678c3790091ca0275ac486c76f3c8f3920e83c657
+cattrs==24.1.1 \
+    --hash=sha256:16e94a13f9aaf6438bd5be5df521e072b1b00481b4cf807bcb1acbd49f814c08 \
+    --hash=sha256:ec8ce8fdc725de9d07547cd616f968670687c6fa7a2e263b088370c46d834d97
     # via lsprotocol
 exceptiongroup==1.2.0 \
     --hash=sha256:4bfd3996ac73b41e9b9628b04e079f193850720ea5945fc96a08633c66912f14 \
